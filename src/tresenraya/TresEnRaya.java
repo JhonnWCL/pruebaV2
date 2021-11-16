@@ -22,6 +22,9 @@ public class TresEnRaya extends javax.swing.JFrame {
 
     private int jugador3;
     private int modo2;
+
+    private int jugador4;
+    private int modo4;
     
     public String mensaje;
     public int estado;
